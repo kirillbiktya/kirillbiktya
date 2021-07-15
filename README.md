@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kirillbiktya
+- 👋 Hi, my name is Kirill. I love to write code. Learning C++ now. Want to be a great developer :)
 
 
 <!---
