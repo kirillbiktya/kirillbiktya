@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is Kirill
 
-Skills: Python / C++
-
+Skills: Python / C++ / 🤏 Swift
 
 Socials:
 
